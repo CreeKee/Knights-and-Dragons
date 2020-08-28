@@ -1,0 +1,15 @@
+﻿  WinMain.cpp
+  Window.cpp
+D:\Knights and Dragons\Knights and Dragons\Knights and Dragons\Window.h(44,96): warning C4003: not enough arguments for function-like macro invocation 'CHWND_LAST_EXCEPT' (compiling source file Window.cpp)
+D:\Knights and Dragons\Knights and Dragons\Knights and Dragons\Window.cpp(41,9): warning C4003: not enough arguments for function-like macro invocation 'CHWND_LAST_EXCEPT'
+D:\Knights and Dragons\Knights and Dragons\Knights and Dragons\Window.cpp(54,9): warning C4003: not enough arguments for function-like macro invocation 'CHWND_LAST_EXCEPT'
+D:\Knights and Dragons\Knights and Dragons\Knights and Dragons\Window.cpp(41,1): warning C4297: 'Window::Window': function assumed not to throw an exception but does
+D:\Knights and Dragons\Knights and Dragons\Knights and Dragons\Window.cpp(41,1): message : __declspec(nothrow), throw(), noexcept(true), or noexcept was specified on the function
+D:\Knights and Dragons\Knights and Dragons\Knights and Dragons\Window.cpp(54,1): warning C4297: 'Window::Window': function assumed not to throw an exception but does
+D:\Knights and Dragons\Knights and Dragons\Knights and Dragons\Window.cpp(54,1): message : __declspec(nothrow), throw(), noexcept(true), or noexcept was specified on the function
+D:\Knights and Dragons\Knights and Dragons\Knights and Dragons\Definitions.h(4,1): warning C4005: '_WIN32_WINNT': macro redefinition (compiling source file WinMain.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\sdkddkver.h(217): message : see previous definition of '_WIN32_WINNT' (compiling source file WinMain.cpp)
+D:\Knights and Dragons\Knights and Dragons\Knights and Dragons\Definitions.h(47,1): warning C4005: 'STRICT': macro redefinition (compiling source file WinMain.cpp)
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\shared\minwindef.h(23): message : see previous definition of 'STRICT' (compiling source file WinMain.cpp)
+D:\Knights and Dragons\Knights and Dragons\Knights and Dragons\Window.h(44,96): warning C4003: not enough arguments for function-like macro invocation 'CHWND_LAST_EXCEPT' (compiling source file WinMain.cpp)
+  Knights and Dragons.vcxproj -> D:\Knights and Dragons\Knights and Dragons\Debug\Knights and Dragons.exe
